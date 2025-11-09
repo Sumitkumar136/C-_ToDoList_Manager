@@ -22,7 +22,7 @@ A console-based To-Do List Manager built in C++ with features like user login, t
    git clone https://github.com/yourusername/C++_ToDoList_Manager.git
 2. Compile the program:
    ```bash
-   g++ main.cpp -o todo
+   g++ main.cpp -o To_DO_LIST
 3. Run the executable:
    ```bash
-   ./todo
+   ./To_DO_LIST
